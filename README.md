@@ -218,4 +218,4 @@ Upcoming initiatives include:
 📚 Master's Capstone Initiative  
 🎯 Specialization: Microservices Design, Distributed Backend Architecture, System Engineering  
 
-🔗 **Central Hub:** https://github.io/
+🔗 **Central Hub:** [https://github.io/](https://github.com/g-agrawal/g-agrawal.github.io/)
