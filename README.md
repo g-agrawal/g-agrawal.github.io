@@ -57,7 +57,7 @@ Collectively, they integrate to form a **unified e-commerce platform**.
 
 ### 🌐 Service Discovery Layer  
 🔗 **Repository:**  
-👉 https://github.com/ServiceRegistry
+👉 https://github.com/g-agrawal/ServiceRegistry
 
 **Primary Functions**
 - Automatic service location resolution  
@@ -69,7 +69,7 @@ Collectively, they integrate to form a **unified e-commerce platform**.
 ### 💰 Payment Processing Service (In Development 🚧)
 
 🔗 **Repository:**   
-👉 https://github.com/PaymentService
+👉 https://github.com/g-agrawal/PaymentService
 
 **Primary Functions**
 - Encrypted transaction handling  
@@ -80,7 +80,7 @@ Collectively, they integrate to form a **unified e-commerce platform**.
 
 ### 🎁 Product Catalog Service  
 🔗 **Repository:**  
-👉 https://github.com/ProductService
+👉 https://github.com/g-agrawal/ProductService
 
 **Primary Functions**
 - Search capability enablement
@@ -91,7 +91,7 @@ Collectively, they integrate to form a **unified e-commerce platform**.
 
 ### 📢 Alert & Communication Service  
 🔗 **Repository:**  
-👉 https://github.com/NotificationService
+👉 https://github.com/g-agrawal/NotificationService
 
 **Primary Functions**
 - User engagement and lifecycle messaging
@@ -102,7 +102,7 @@ Collectively, they integrate to form a **unified e-commerce platform**.
 
 ### 🛍️ Shopping Cart Service  
 🔗 **Repository:**  
-👉 https://github.com/CartService
+👉 https://github.com/g-agrawal/Cartservice
 
 **Primary Functions**
 - Performance-optimized for concurrent access patterns
@@ -113,7 +113,7 @@ Collectively, they integrate to form a **unified e-commerce platform**.
 
 ### 📋 Order Management Service  
 🔗 **Repository:**  
-👉 https://github.com/OrderService
+👉 https://github.com/g-agrawal/OrderService
 
 **Primary Functions**
 - Integration with payment and communication layers
@@ -124,7 +124,7 @@ Collectively, they integrate to form a **unified e-commerce platform**.
 
 ### 👤 User Service  
 🔗 **Repository:**  
-👉 https://github.com/UserService
+👉 https://github.com/g-agrawal/UserService
 
 **Primary Functions**
 - User profile administration and account recovery
